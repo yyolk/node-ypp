@@ -1,0 +1,26 @@
+{
+  "name": "ypp",
+  "version": "1.0.0",
+  "description": "Yolk's Pretty Print",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyolk/node-ypp.git"
+  },
+  "keywords": [
+    "pretty-print",
+    "json",
+    "stringify",
+    "pretty",
+    "print"
+  ],
+  "author": "Joseph Yølk Chiocchi <joe@yolk.cc>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yyolk/node-ypp/issues"
+  },
+  "homepage": "https://github.com/yyolk/node-ypp#readme"
+}

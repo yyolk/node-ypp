@@ -1,4 +1,4 @@
-# node-ypp
+# node-ypp [![Build Status](https://travis-ci.org/yyolk/node-ypp.svg?branch=master)](https://travis-ci.org/yyolk/node-ypp)
 
 YOLK's Pretty Print for Node
 
